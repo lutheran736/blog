@@ -1,0 +1,19 @@
+[submodule "themes/lekh"]
+	path = themes/lekh
+	url = https://github.com/ba11b0y/lekh.git
+[submodule "themes/hugo-blog-awesome"]
+	path = themes/hugo-blog-awesome
+	url = https://github.com/hugo-sid/hugo-blog-awesome
+[submodule "themes/xterm"]
+	path = themes/xterm
+	url = https://github.com/manid2/hugo-xterm
+[submodule "themes/holy"]
+	path = themes/holy
+	url = https://github.com/serkodev/holy.git
+[submodule "public"]
+	path = public
+	url = git@github.com:lutheran736/lutheran736.github.io.git
+	branch = main
+[submodule "themes/lugo"]
+	path = themes/lugo
+	url = https://github.com/lukesmithxyz/lugo
